@@ -13,7 +13,6 @@ The idea of Brevidy was to create a place that people could upload their own vid
 <a style="padding:10px" href="https://s3.amazonaws.com/screenshots.angel.co/bc/23502/1d3363cf3242f058b235cedfc0b7ee4b-original.png"><img src="https://s3.amazonaws.com/screenshots.angel.co/bc/23502/1d3363cf3242f058b235cedfc0b7ee4b-original.png" alt="Screenshot" style="width: 200px;"/></a>
 <a style="padding:10px" href="https://s3.amazonaws.com/screenshots.angel.co/bc/23502/2f29bec475fd70582c0edfd8ef0eb810-original.png"><img src="https://s3.amazonaws.com/screenshots.angel.co/bc/23502/2f29bec475fd70582c0edfd8ef0eb810-original.png" alt="Screenshot" style="width: 200px;"/></a>
 
-## Open Sourcing
 I learned a lot about web programming by creating Brevidy and instead of it sitting and collecting dust, I wanted to open source it for others to learn from and use bits and pieces in their own projects.  If you want to create your own video social network using Brevidy as a starting point, be my guest, but **do not** use the Brevidy name, logo, branding, or badges in your website.  Just make sure you give me (Rob Phillips) credit in the About section and I welcome any and all PayPal donations
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8QD95M6JCP73C"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"/></a>
